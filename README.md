@@ -1,6 +1,3 @@
-# DeepfakedectionAI
-
-
 # Deepfake Detection with Machine Learning and Neural Networks
 
 ## 📌 Project Overview
