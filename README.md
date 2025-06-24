@@ -6,10 +6,11 @@ This project focuses on detecting **deepfake images**—AI-generated media desig
 
 ## Team Members
 
-* Abdul Rehman
-* Alex Busch
-* Ritvik Roy
-* Sharath Rigvedi
+
+- [@Rigvedi10](https://github.com/Rigvedi10) – Sharath Rigvedi  
+- [@atbusch78](https://github.com/atbusch78) – Alex Busch  
+- [@ritvikvroy](https://github.com/ritvikvroy) – Ritvik Roy  
+- **Abdul Rehman** – *(GitHub profile not yet available)*
 
 ## Models Used
 
