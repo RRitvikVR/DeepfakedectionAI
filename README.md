@@ -45,7 +45,7 @@ We used the **CIFAKE dataset** from Kaggle:
 
 ## 💻 User Interface
 
-We developed a lightweight **UI in Google Colab** for each model. Users can upload an image, classify it as real/fake, and view the model’s confidence score.
+We developed a lightweight **UI in Google Colab** for each model using streamlit. Users can upload an image, classify it as real/fake, and view the model’s confidence score.
 
 ### How to Use the UI:
 
