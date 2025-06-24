@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project focuses on detecting **deepfake images**—AI-generated media designed to appear real—using various machine learning models. Deepfakes pose serious threats by spreading misinformation, damaging reputations, and facilitating identity-based fraud. Our goal was to evaluate and compare different detection models in terms of **accuracy, training time, and usability**, and to provide a simple **user interface** for hands-on experimentation.
+This project focuses on detecting **deepfake images** AI-generated media designed to appear real using various machine learning models. Deepfakes pose serious threats by spreading misinformation, damaging reputations, and facilitating identity based fraud. Our goal was to evaluate and compare different detection models in terms of **accuracy, training time, and usability**, and to provide a simple **user interface** for hands-on experimentation.
 
 ## Team Members
 
